@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @smanikumar95
+- 👀 I’m interested in Full Stack Web Development, Dotnet, and Cloud Computing
+- 🌱 I’m currently learning Docker, Kubernetes, and React.js
+- 💼 I’m looking to collaborate on open-source projects and web development challenges
+- 📫 How to reach me: smanikumar66@gmail.com or https://www.linkedin.com/in/smanikumar1995
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a chai enthusiast and love experimenting with new brewing methods!
